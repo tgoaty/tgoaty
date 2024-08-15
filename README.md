@@ -6,12 +6,13 @@
 
 ---
 
-### :man_technologist: About Me :
-I am Nikolay, a student from Russia, Barnaul
- - 🐍 I have been learning Python since 2021
- - 🔥 I have been learning Frontend since 2023
- - 🐸 I am working on my educational projects
- - 💙 I love Yandex
+I am Nikolay, a student and Frontend Developer from Russia, Barnaul.
+
+🐍 Mastering Python since 2021.
+🔥 Specializing in Frontend Development since 2023.
+🛠️ Favorite tech stack: Vite, React, TypeScript, Zustand, Ant Design, FSD.
+🚀 Currently focused on refining my skills through pet projects.
+
 
 ---
 
