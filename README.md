@@ -8,10 +8,10 @@
 
 I am Nikolay, a student and Frontend Developer from Russia, Barnaul.
 
-🐍 Mastering Python since 2021.
-🔥 Specializing in Frontend Development since 2023.
-🛠️ Favorite tech stack: Vite, React, TypeScript, Zustand, Ant Design, FSD.
-🚀 Currently focused on refining my skills through pet projects.
+ - 🐍 Mastering Python since 2021.
+ - 🔥 Specializing in Frontend Development since 2023.
+ - 🛠️ Favorite tech stack: Vite, React, TypeScript, Zustand, Ant Design, FSD.
+ - 🚀 Currently focused on refining my skills through pet projects.
 
 
 ---
